@@ -7,7 +7,7 @@
 💖   → [INSTAGRAM](https://www.instagram.com/lucykorea414/)
 
 
-## P E R S O N A L  I N F O
+## About ME...
 
 - My Info
     - Number : 010-6714-8005
@@ -20,6 +20,9 @@
 - Side Project
     - 2022 4월~현재: “채터붐:일시적 채팅방" 프로젝트 백엔드 개발자
 
+## Github!
+- 🔭 I’m currently working on ... 
+- 🌱 I’m currently learning ...
 
 <!--
 **lucykorea414/lucykorea414** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
