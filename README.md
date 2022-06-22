@@ -23,7 +23,7 @@
     - 2022 6월~현재: 인디게임 개발 - 게임 개발자
 
 ## Github!
-- 🌱 I’m currently learning ... 암호학, 웹 개발, 게임 개발
+- 🌱 I’m currently learning ... 암호학, 웹/앱 개발, 게임 개발
 
 <!--
 **lucykorea414/lucykorea414** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
