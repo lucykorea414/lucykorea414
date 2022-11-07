@@ -1,12 +1,12 @@
 # 박지은(JEE EUN PARK)
 
-🛠   → [GITHUB](https://github.com/lucykorea414)
+<!-- 🛠   → [GITHUB](https://github.com/lucykorea414)
 
 ✏️   → [NAVER BLOG](https://blog.naver.com/lucykorea414)
 
 💖   → [INSTAGRAM](https://www.instagram.com/lucykorea414/)
 
-
+ -->
 ## About ME...
 
 - My Info
