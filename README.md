@@ -1,4 +1,4 @@
-# 박지은(JEE EUN PARK)
+# 박지은(JEEEUN PARK)
 
 <!-- 🛠   → [GITHUB](https://github.com/lucykorea414)
 
