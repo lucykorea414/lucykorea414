@@ -20,7 +20,7 @@
     - 2022 6월 ~ 2022 7월: 2022 AI Full-Stack Internship Program - <a href="https://github.com/YeZak">YeZak</a>
     - 2022 8월: '소프트웨어 개발 보안 시큐어코딩' 대회 참가 - 장려상 수상 <a href="https://github.com/CYZ-LetsMeet">LetsMeet(우리 지금 만나)</a>
     - 2023 3월 ~ 현재 : 베지스페이스 백엔드 개발자
-    - 2023 3월 ~ 현재 : E-COPS 이화여자대학교 사이버보안 동아리 - 멤버
+    - 2023 3월 ~ 현재 : E-COPS 이화여자대학교 사이버보안 동아리 - 12기 멤버
     - 2023 4월 ~ 현재 : E-COPS 이화여자대학교 사이버보안 동아리 - WEB TF 백엔드 리드개발자
     - 2023 4월 ~ 현재 : E-COPS 이화여자대학교 사이버보안 동아리 - 보안뉴스 TF 리드
 
