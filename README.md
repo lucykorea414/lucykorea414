@@ -14,16 +14,20 @@
     - School : Ewha W. University
     - Major : Cyber Security
 
-- Project
+- Activities
     - 2022 5월~11월: 고양시 이루어드림 공모전 - <a href="https://github.com/Dream-Goyang">"걸어갈고양" 고양시 만보기 & AR 게임 앱</a>
     - 2022 6월: SW중심대학 해커톤 - <a href="https://github.com/lucykorea414/Digital_Remedy">"RE:Mind" 공황장애 환자들을 위한 그라운딩 게임</a>
     - 2022 6월 ~ 2022 7월: 2022 AI Full-Stack Internship Program - <a href="https://github.com/YeZak">YeZak</a>
     - 2022 8월: '소프트웨어 개발 보안 시큐어코딩' 대회 참가 - 장려상 수상 <a href="https://github.com/CYZ-LetsMeet">LetsMeet(우리 지금 만나)</a>
+    - 2023 3월 ~ 현재 : 베지스페이스 백엔드 개발자
+    - 2023 3월 ~ 현재 : E-COPS 이화여자대학교 사이버보안 동아리 - 멤버
+    - 2023 4월 ~ 현재 : E-COPS 이화여자대학교 사이버보안 동아리 - WEB TF 백엔드 리드개발자
+    - 2023 4월 ~ 현재 : E-COPS 이화여자대학교 사이버보안 동아리 - 보안뉴스 TF 리드
 
 <!--     - 2022 6월~현재: 사이드 프로젝트 인디게임 개발 - 게임 개발자 -->
 
 ## Github!
-- 🌱 I’m currently learning ... Cryptography, Computer Science Engineering, Computer Security
+- 🌱 I’m currently learning ... Cryptography, Computer Security, Backend Development
 
 <!--
 **lucykorea414/lucykorea414** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
