@@ -25,17 +25,17 @@
     - 2023 4월 ~ 7월 : E-COPS 이화여자대학교 사이버보안 동아리 - 보안뉴스 TF 리드
     - 2023 7월 ~ 현재 : E-COPS 이화여자대학교 사이버보안 동아리 - 부회장
     - 2023 8월 : '소프트웨어 개발 보안 시큐어코딩' 대회 시즌5 참가 - 장려상 수상 <a href="https://github.com/PillSafe">PillSafe</a> 백엔드 개발
-    - 2023 11월(현재) : '사이버보안 AI 빅데이터 챌린지 2023' 대회 - 우수상 수상
+    - 2023 11월 : '사이버보안 AI 빅데이터 챌린지 2023' 대회 - 우수상 수상
+    - 2024 1월 : '2023 ESG 기반 디자인씽킹 교육' 교내 대회 - 우수상 수상
+    - 2024 2월 : 2024 제1회 ECS CTF 대회 - 주최 및 리버싱/암호 문제 제작
+    - 2024 3월 ~ (현재) : 도전학기제 17기 - "Crack The Box" 백엔드 개발 및 워게임/CTF 문제 제작
 
-<!--     - 2022 6월~현재: 사이드 프로젝트 인디게임 개발 - 게임 개발자 -->
+
+<!--
 
 ## Github!
 - 🌱 I’m currently learning ... Cryptography, Computer Security, Backend Development, .NET Software Development
 
-<!--
-**lucykorea414/lucykorea414** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
