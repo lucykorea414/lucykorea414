@@ -35,8 +35,10 @@
     - 2024 8월 : 2024 제2회 KISIA 정보보호 개발자 해커톤 - 장려상 수상 PhiShield 백엔드 개발
 
 
+## Stats
 
 [![Lucy's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucykorea414)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucykorea414)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 
