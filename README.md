@@ -10,9 +10,12 @@
 ## About ME...
 
 - My Info
-    - Email : lucykorea414@ewhain.net
+    - Email : lucykorea414@ewha.ac.kr
     - School : Ewha W. University
     - Major : Cyber Security
+ 
+
+<!--
 
 - Activities
     - 2021 10월 ~ 2022 8월: (주)포체인스 개발부 보안팀 보안 솔루션 소프트웨어 개발
@@ -33,6 +36,8 @@
     - 2024 6월 : E-COPS 세션 특강 - 디지털포렌식 강연 진행
     - 2024 7월 : 대학 해킹 동아리 활용 사이버 모의해킹 경진대회 - 장려상 수상
     - 2024 8월 : 2024 제2회 KISIA 정보보호 개발자 해커톤 - 장려상 수상 PhiShield 백엔드 개발
+
+ -->
 
 
 ## Stats
